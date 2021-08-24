@@ -1,0 +1,1 @@
+[{"_id":"5f3627f5247b2d6940851119","pseudo":"Nicolas","email":"weedy1aina@gmail.com","phone":"0326005547","pass":"Andrianantara0001","createdAt":"2020-08-14T05:58:13.981Z","updatedAt":"2020-08-14T05:58:13.981Z","__v":0}]
