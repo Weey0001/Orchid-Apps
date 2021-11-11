@@ -5,16 +5,6 @@ mongoose = require('mongoose'),
 app = express(),
 dataperdaysaved = require('./config/config'),
 port = 5000,
-// uri = 'mongodb+srv://weedy0001:darina1985@cluster0-s8bfb.mongodb.net/test?retryWrites=true&w=majority',
-// options = {
-  
-//   user:"weedy0001",
-//   pass:"darina1985",
-//   dbName:"wadadb",
-//   useUnifiedTopology: true ,
-//   useNewUrlParser: true
-  
-// };
 
 uri = "mongodb://127.0.0.1:27017",
 options={
